@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1077469626372-rdpaom24dir8akg73i5d6bahhecj89qo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1077469626372-rdpaom24dir8akg73i5d6bahhecj89qo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBci4aSj1aw9Mm_QxLHAYpv2SLco5E1NYo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1077469626372</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.NewChatApp</string>
+	<key>PROJECT_ID</key>
+	<string>newchat-80329</string>
+	<key>STORAGE_BUCKET</key>
+	<string>newchat-80329.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1077469626372:ios:443875d91466619e</string>
+	<key>DATABASE_URL</key>
+	<string>https://newchat-80329.firebaseio.com</string>
+</dict>
+</plist>
